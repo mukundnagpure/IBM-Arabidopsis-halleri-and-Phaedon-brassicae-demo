@@ -218,3 +218,6 @@ The simplified public repository focuses on:
 - basic plotting
 
 This is sufficient to demonstrate the modelling approach and code structure without compromising ongoing publication work.
+
+## License
+This project is released under the MIT License. See the LICENSE file for details.
